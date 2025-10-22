@@ -72,7 +72,7 @@ app-chorarios-sophia/
 
 1. app.py inicia la interfaz gráfica y gestiona la interacción con el usuario.
 
-2 El usuario carga los archivos de entrada desde la carpeta data/.
+2. El usuario carga los archivos de entrada desde la carpeta data/.
 
 3. Los módulos en src/ procesan los datos: leen, validan y generan combinaciones de horarios sin superposición.
 
