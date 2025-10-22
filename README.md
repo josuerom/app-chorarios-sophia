@@ -14,6 +14,6 @@ Este proyecto genera un dataset de entrenamiento para modelos de lenguaje que ap
    ```bash
    pip install -r requirements.txt
 
-## 📚 Preview de App
+## 📚 App Preview
 
 ![Desktop App Chorarios](./static/preview.png)
